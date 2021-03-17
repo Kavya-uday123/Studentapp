@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration</title>
+    <title>Document</title>
 </head>
 <body style="background-color:cadetblue;">
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -25,12 +25,12 @@
     </div>
   </div>
 </nav>
-    <div class="container">
-    <div class="row">
-    <div class="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3"></div>
-    <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
-   <br>
-    <h5><center>REGISTRATION</center></h5>
+<div class="container">
+<div class="row">
+<div class="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3"></div>
+<div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+<br>
+<h5><center>CONTACT</center></h5>
     <br>
     <table class="table">
     <tr>
@@ -38,26 +38,21 @@
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Roll No</td>
-        <td><input type="number" class="form-control"></td>
+        <td>Message</td>
+        <td><textarea name="" id="" cols="30" rows="10" class="form-control"></textarea></td>
     </tr>
     <tr>
-        <td>Adm No</td>
+        <td>Phone No</td>
         <td><input type="number" class="form-control"></td>
-    </tr>
-    <tr>
-        <td>College</td>
-        <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
         <td></td>
-        <td><button class="btn btn-primary">REGISTER</button></td>
+        <td><button class="btn btn-danger">SUBMIT</button></td>
     </tr>
     </table>
     </div>
     <div class="col col-12 col-sm-3 col-md-3 col-lg-3 col-xl-3 col-xxl-3"></div>
-    </div>
-    </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    </div></div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>s
 </body>
 </html>
